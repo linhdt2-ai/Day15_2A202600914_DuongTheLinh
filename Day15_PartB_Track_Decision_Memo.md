@@ -188,7 +188,7 @@ Dấu hiệu xem lại:
 
 ## 5. Định hướng chuẩn bị
 
-Trong 6 tháng:
+Trong 3 tháng:
 
 1. Build 2–3 AI projects
 2. Deploy production
